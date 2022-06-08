@@ -24,4 +24,15 @@ In the nearest time I’m going to receive all possible knowledge about frontend
    }
   </style>
   ```
-  
+## Experience
+  * Tutor of English
+  * Interpreter/translator
+## Education
+  __Belarusian University of Culture and Arts__
+  * Faculty of Cultural Studies and Socio-cultural Activities
+   * _Management of internaional cultural relations_
+## Languages
+   * __English__ - B2-C1
+   * __Spanish__ - A1
+   * __Belarusian__ - native speaker
+   * __Russian__ - native speaker
